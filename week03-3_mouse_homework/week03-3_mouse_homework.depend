@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1677745949 source:c:\users\administrator\desktop\week03-3_mouse_homework\main.cpp
+	<GL/glut.h>
+	<stdio.h>
+
