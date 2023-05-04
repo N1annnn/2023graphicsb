@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1683185787 source:c:\users\administrator\desktop\week12\week12-4_keyboard_mouse\main.cpp
+	<stdio.h>
+	<GL/glut.h>
+
+1683185787 source:c:\users\administrator\desktop\2023graphicsb\final_project\main.cpp
+	<stdio.h>
+	<GL/glut.h>
+
